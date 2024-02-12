@@ -1,7 +1,7 @@
 // import React from 'react'
 
 import Card from "./Card/Card"
-import data from '../../data/data'
+import data from '../../../public/data'
 
 const Main = () => {
     const cards = data.map (item => {
